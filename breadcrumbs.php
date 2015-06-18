@@ -2,7 +2,7 @@
 /**
  * Shop breadcrumb
  *
- * @author 		Shalako Lee
+ * @author      Shalako Lee
  * @version     1.0
  * @see         woocommerce_breadcrumb()
  * to use this you must include session_start(); in the template header
